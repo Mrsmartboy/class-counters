@@ -1,0 +1,40 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  background-color: #f1f5f8;
+  min-height: 100vh;
+  text-align: center;
+}
+
+.heading {
+  color: #2d3a35;
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Roboto';
+}
+
+.count {
+  color: #c20a72;
+}
+
+.para {
+  color: #2d3a35;
+  font-size: 20px;
+  font-weight: 500;
+  font-family: 'Roboto';
+}
+
+.button {
+  color: #ffffff;
+  font-size: 10px;
+  font-weight: 500;
+  font-family: 'Roboto';
+  background-color: #007bff;
+  padding: 10px;
+  border: none;
+  outline: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
